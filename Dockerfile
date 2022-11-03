@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:kinetic-20220830
 MAINTAINER Rogerio Angeliski <angeliski@hotmail.com>
 
 RUN apt-get install -y software-properties-common
