@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:22.10
 MAINTAINER Rogerio Angeliski <angeliski@hotmail.com>
 
 RUN apt-get install -y software-properties-common
