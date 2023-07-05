@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:kinetic
 MAINTAINER Rogerio Angeliski <angeliski@hotmail.com>
 
 RUN apt-get install -y software-properties-common
